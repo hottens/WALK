@@ -1,3 +1,5 @@
+
+// expected
 YES
 NO
 NO
@@ -8,6 +10,18 @@ NO
 YES
 NO
 YES
+
+// my output
+YES
+NO
+NO
+NO // wrong
+NO // wrong
+YES
+NO
+NO // wrong
+YES // wrong
+NO // wrong
 
 
 4,6c4
